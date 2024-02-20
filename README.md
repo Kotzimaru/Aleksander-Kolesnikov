@@ -1,5 +1,5 @@
 <h1 align="center">Привет!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Я Александр Колесников, Android Разработчик 🇷🇺</h2>
+<h2 align="center">Я Александр Колесников, Android Разработчик</h2>
 <h5 align="center">Мой стек:</h5>
 • Программирование на Kotlin<br>
 • SOLID, MVVM, MVP, MVI<br>
